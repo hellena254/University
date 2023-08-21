@@ -7,8 +7,8 @@ Welcome to the University Website project! This interactive web application is d
 
 To run this application locally, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/your-username/university-website.git`
-2. Navigate to the project directory: `cd university-website`
+1. Clone this repository: `git clone https://github.com/hellena254/University.git`
+2. Navigate to the project directory: `cd university`
 3. Open `index.html` in your preferred web browser
 
 ## Usage
